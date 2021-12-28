@@ -1,4 +1,4 @@
-# kidney_training
+# Kidney Disease Classification
 This reprository includes:
 * kidney disease data set with 400 observations and 26 features
 * Jupyter Notebook with EDA, pre-processing, and Modelling steps
